@@ -1,0 +1,11 @@
+id_transaccion,id_usuario,edad,fecha,categoria,monto,tipo_transaccion,metodo_pago,es_gasto_impulsivo
+TX1001,USR01,19,2024-01-15,Nomina_Primer_Empleo,6000.00,Ingreso,Transferencia,0
+TX1002,USR01,19,2024-01-16,Comida_Restaurantes,350.00,Egreso,Tarjeta_Debito,0
+TX1003,USR01,19,2024-01-18,Entretenimiento_Ropa,1200.00,Egreso,Tarjeta_Credito,1
+TX1004,USR01,19,2024-01-20,Transporte,150.00,Egreso,Efectivo,0
+TX1005,USR01,19,2024-01-22,Gustos_Impulsivos,850.00,Egreso,Tarjeta_Credito,1
+TX1006,USR01,19,2024-01-25,Servicios_Telefonia,200.00,Egreso,Tarjeta_Debito,0
+TX1007,USR02,20,2024-01-15,Beca_Universitaria,4000.00,Ingreso,Transferencia,0
+TX1008,USR02,20,2024-01-17,Suscripciones_Streaming,299.00,Egreso,Tarjeta_Debito,0
+TX1009,USR02,20,2024-01-19,Salidas_Fiestas,950.00,Egreso,Tarjeta_Credito,1
+TX1010,USR02,20,2024-01-28,Ahorro_Fondo,500.00,Ingreso,Transferencia,0

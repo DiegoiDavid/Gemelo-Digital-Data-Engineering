@@ -1,0 +1,40 @@
+# Entorno virtual y Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Docker y bases de datos locales
+*.db
+*.sqlite
+!data/bronze/*.csv
+dags/logs/
+
+# Configuraciones de VS Code / SO
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Variables de entorno y llaves secretas
+.env
+
+# Logs de Airflow y sistema
+logs/
+*.log
+
+# Entorno virtual y Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Docker y bases de datos locales
+*.db
+*.sqlite
+
+# VS Code
+.vscode/
+.DS_Store
+
+# Variables de entorno y llaves secretas
+.env
